@@ -1,1 +1,1 @@
-# Insurance-Prediction
+# Projects
